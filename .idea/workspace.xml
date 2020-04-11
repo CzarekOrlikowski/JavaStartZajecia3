@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03f6633f-c8b7-4ee5-822d-5b1640890694" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/PupilGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_4/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_6/TimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_6/TimeCalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Pliki Czarek\JAVASTART\Zajęcia_3\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aK4S3irXttmcv5FjplJ3QTuqfj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ćwiczenie_3" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Pliki Czarek\JAVASTART\Zajęcia_3\src\Ćwiczenie_3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ćwiczenie_3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Pliki Czarek\JAVASTART\Zajęcia_3\.idea" />
+      <recent name="C:\Pliki Czarek\JAVASTART\Zajęcia_3\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TimeCalculatorTest">
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_2.School" />
+      <module name="Zajęcia_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ćwiczenie_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shop (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_3.Shop" />
+      <module name="Zajęcia_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ćwiczenie_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_5.Test" />
+      <module name="Zajęcia_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ćwiczenie_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_4.Test" />
+      <module name="Zajęcia_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ćwiczenie_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeCalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_6.TimeCalculatorTest" />
+      <module name="Zajęcia_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ćwiczenie_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TimeCalculatorTest" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Shop (1)" />
+        <item itemvalue="Application.School" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f6633f-c8b7-4ee5-822d-5b1640890694" name="Default Changelist" comment="" />
+      <created>1586470947433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586470947433</updated>
+      <workItem from="1586470961523" duration="30412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1586519537599">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586519537599" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1586556804617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586556804617" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1586556804617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586556804617" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1586556804617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586556804617" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1586556804617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586556804617" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1586526389146">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586526389146" />
+    <state x="182" y="50" key="new project wizard" timestamp="1586519522973">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586519522973" />
+    <state x="506" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1586549005909">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1586549005909" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586553893640">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586553893640" />
+  </component>
+</project>
