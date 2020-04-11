@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03f6633f-c8b7-4ee5-822d-5b1640890694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_1/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/PupilGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_2/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_3/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_4/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_5/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_6/TimeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_6/TimeCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_7/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_8/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ćwiczenie_8/RadionTuning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zajęcia_3/Ćwiczenie_5/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zajęcia_3/Ćwiczenie_5/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +68,7 @@
       <recent name="C:\Pliki Czarek\JAVASTART\Zajęcia_3\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarTest">
+  <component name="RunManager" selected="Application.RadionTuning">
     <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ćwiczenie_7.CarTest" />
       <module name="Zajęcia_3" />
@@ -102,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shop (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_3.Shop" />
+    <configuration name="RadionTuning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ćwiczenie_8.RadionTuning" />
       <module name="Zajęcia_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ćwiczenie_3.*" />
+          <option name="PATTERN" value="Ćwiczenie_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RadionTuning" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.TimeCalculatorTest" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Shop (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586470947433</updated>
-      <workItem from="1586470961523" duration="40098000" />
+      <workItem from="1586470961523" duration="45830000" />
     </task>
     <task id="LOCAL-00001" summary="11.04.2020 - 11:00">
       <created>1586595515802</created>
@@ -183,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586595515803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11.04.2020 - 15:00">
+      <created>1586609792895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586609792895</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,45 +178,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11.04.2020 - 11:00" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.04.2020 - 11:00" />
+    <MESSAGE value="11.04.2020 - 15:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.04.2020 - 15:00" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586597829788">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586597829788" />
-    <state x="425" y="24" key="CommitChangelistDialog2" timestamp="1586595513892">
+    <state x="425" y="24" key="CommitChangelistDialog2" timestamp="1586609791657">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586595513892" />
+    <state x="425" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1586609791657" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1586519537599">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586519537599" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1586609756151">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1586640258707">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586609756151" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1586609756150">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586640258707" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1586640258706">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586609756150" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1586609756150">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586640258706" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1586640258706">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586609756150" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1586609756150">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586640258706" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1586640258707">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586609756150" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586640258707" />
     <state x="301" y="72" key="SettingsEditor" timestamp="1586526389146">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586526389146" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586595586361">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586609804070">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1586595586361" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1586609804070" />
     <state x="182" y="50" key="new project wizard" timestamp="1586519522973">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -238,9 +226,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="506" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1586549005909" />
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586553893640">
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586627860739">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586553893640" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586627860739" />
   </component>
 </project>
