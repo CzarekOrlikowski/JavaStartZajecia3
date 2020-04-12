@@ -6,6 +6,13 @@ public class Oven {
     int platesNumber;
     boolean steam;
 
+    Oven (String b, String c, int n, boolean s){
+        brand = b;
+        color = c;
+        platesNumber = n;
+        steam = s;
+    }
+
     void showInfo(){
         System.out.println("OPIS PIEKARNIKA");
         System.out.println("Marka : " + brand);
