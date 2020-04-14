@@ -25,7 +25,7 @@ public class Shop {
 
         System.out.println("OFERTA SPECJALNA");
 
-        System.out.println(specialOffer1.product.name + " (" + specialOffer1.product.description + ") " + "cena "
+        System.out.println(specialOffer1.product.name + " (" + specialOffer1.product.description + ") " + "cena pai"
                 + product1.price * (1.0 - specialOffer1.discount) + " zł" + " kategoria: " + specialOffer1.product.group.productType + " ("
                 + specialOffer1.product.group.information + ")");
 
